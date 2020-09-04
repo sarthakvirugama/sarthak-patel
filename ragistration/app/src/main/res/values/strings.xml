@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name" translatable="false">ragistration</string>
-    <string name="login_button" translatable="false">Login</string>
-    <string name="registration_button" translatable="false">Register</string>
-</resources>
